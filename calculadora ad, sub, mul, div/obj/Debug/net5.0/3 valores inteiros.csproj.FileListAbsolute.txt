@@ -1,0 +1,16 @@
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\SWITCH CASE\3 valores inteiros\bin\Debug\net5.0\3 valores inteiros.exe
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\SWITCH CASE\3 valores inteiros\bin\Debug\net5.0\3 valores inteiros.deps.json
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\SWITCH CASE\3 valores inteiros\bin\Debug\net5.0\3 valores inteiros.runtimeconfig.json
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\SWITCH CASE\3 valores inteiros\bin\Debug\net5.0\3 valores inteiros.runtimeconfig.dev.json
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\SWITCH CASE\3 valores inteiros\bin\Debug\net5.0\3 valores inteiros.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\SWITCH CASE\3 valores inteiros\bin\Debug\net5.0\ref\3 valores inteiros.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\SWITCH CASE\3 valores inteiros\bin\Debug\net5.0\3 valores inteiros.pdb
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\SWITCH CASE\3 valores inteiros\obj\Debug\net5.0\3 valores inteiros.csproj.AssemblyReference.cache
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\SWITCH CASE\3 valores inteiros\obj\Debug\net5.0\3 valores inteiros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\SWITCH CASE\3 valores inteiros\obj\Debug\net5.0\3 valores inteiros.AssemblyInfoInputs.cache
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\SWITCH CASE\3 valores inteiros\obj\Debug\net5.0\3 valores inteiros.AssemblyInfo.cs
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\SWITCH CASE\3 valores inteiros\obj\Debug\net5.0\3 valores inteiros.csproj.CoreCompileInputs.cache
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\SWITCH CASE\3 valores inteiros\obj\Debug\net5.0\3 valores inteiros.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\SWITCH CASE\3 valores inteiros\obj\Debug\net5.0\ref\3 valores inteiros.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\SWITCH CASE\3 valores inteiros\obj\Debug\net5.0\3 valores inteiros.pdb
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\SWITCH CASE\3 valores inteiros\obj\Debug\net5.0\3 valores inteiros.genruntimeconfig.cache
